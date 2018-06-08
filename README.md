@@ -63,7 +63,7 @@ Personal thoughts on Perl
 - I was surprised to learn that the Comprehensive Perl Archive Network contains over 200, 000 modules. This shows the Perl community is still very active, even if the language does not attract as much glamour as the latest trendy programming languages.
 - As a programmer who believes that programming languages are tools and using only one is not efficient, I'm pleased I can now say that I have an introductory level of familiarity with Perl, even though, the more I learnt of it while building this project, I kept on realising there is so much more to learn. And so I look forward to learning more of Perl
 
-Primary Learning Resources
+My Primary Learning Resources
 -------------
 - [Beginning Perl Web Development](https://www.amazon.com/Beginning-Perl-Web-Development-Professional/dp/1590595319)
 - [Perl::learn](https://learn.perl.org/)
