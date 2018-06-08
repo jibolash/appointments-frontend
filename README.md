@@ -17,7 +17,8 @@ Frontend application for an appointment scheduling app built with JavaScript, jQ
 Features
 --------
 
-- Create appointments, display list of appointments
+- Create appointments, display list of all appointments
+- Search for appointments, using their descriptions
 - Validation of date, time and description input
 - Single page application, using AJAX for network calls
 - Module Design Pattern used for the JavaScript code
@@ -31,6 +32,11 @@ Technologies and Libraries
 - [JQUERY](https://jquery.com/)
 - HTML/CSS
 - [Bootstrap](https://getbootstrap.com/)
+
+Perl Dependencies
+--------
+- Install [cpanm](http://search.cpan.org/~miyagawa/App-cpanminus-1.7044/bin/cpanm) to make installing other modules easier with the command `cpan App::cpanminus`
+- Install JSON with the command `sudo cpanm install JSON`
 
 Local Setup
 -------------
