@@ -3,7 +3,7 @@
 Frontend application for an appointment scheduling app built with JavaScript, jQuery and Bootstrap
 
 
-Screenshots
+## Screenshots
 <p align="center">
     <img src="https://preview.ibb.co/gUWXxo/Screen_Shot_2018_06_08_at_4_36_08_AM.png" />
 </p>
