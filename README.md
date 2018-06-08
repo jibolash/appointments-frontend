@@ -14,17 +14,6 @@ Frontend application for an appointment scheduling app built with JavaScript, jQ
     <img src="https://preview.ibb.co/j5OO3T/Screen_Shot_2018_06_08_at_4_33_57_AM.png" />
 </p>
 
-Table of Contents
------------------
-
-- [Features](#features)
-- [Technologies and Libraries](#tech-and-libraries)
-- [Local Setup](#loca-setup)
-- [How It Works](#how-it-works-mini-guides)
-- [Primary Learning Resources](#recommended-design-resources)
-- [Additional Notes](#additional-notes)
-
-
 Features
 --------
 
