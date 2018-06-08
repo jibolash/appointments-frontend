@@ -1,0 +1,13 @@
+#content {
+    margin: 0 auto;
+    text-align: center;
+    padding: 2px;
+}
+
+#cancel {
+    display: none;
+}
+
+#appointment {
+    display: none;
+}
