@@ -34,12 +34,12 @@ Technologies and Libraries
 
 Local Setup
 -------------
-**Note** This app was built and tested on macOs High Sierra, version 10.13.4
+**Note:** This app was built and tested on macOs High Sierra, version 10.13.4
 
 - Download or clone this repo into the document root of your apache webserver. Depending on your apache setup or operating system, your document root could be named `www`, `Sites` or `htdocs`
 - Download or clone the Perl/CGI backend for this application found at https://github.com/jibolash/appointments-backend into the `cgi-bin` folder on apache. CGI scripts can only be run on apache if they are placed in the `cgi-bin` folder or symlinked from another folder into the `cgi-bin` folder.
 - Run the command `sudo chmod 755 /path-to/cgi-bin/appointments-backend`.
-**Note** `path-to` indicates the path to the `appointments-backend` folder inside `cgi-bin` where you cloned or downloaded the repo in the step above
+**Note:** `path-to` indicates the path to the `appointments-backend` folder inside `cgi-bin` where you cloned or downloaded the repo in the step above
 - Start apache
 - Vist application in your browser at `http://localhost/appointments-frontend`
 
