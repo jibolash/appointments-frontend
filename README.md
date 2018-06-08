@@ -57,7 +57,14 @@ Primary Learning Resources
 - [Perl::learn](https://learn.perl.org/)
 - [TutorialsPoint](https://www.tutorialspoint.com/perl/perl_cgi.ht)
 
-## Additional Notes
+Personal thoughts on Perl
+-------------
+- I've enjoyed toying around with Perl over the last 2 days. It was also fascinating for me to see that JavaScript borrowed some ideas from Perl, like the use of `use strict`
+- I was surprised to learn that the Comprehensive Perl Archive Network contains over 200, 000 modules. This shows the Perl community is still very active, even if the language does not attract as much glamour as other more trendy languages.
+- As a programmer who believes that programming languages are tools and using only one is not efficient, I'm pleased I can now say that I have an introductory level of familiarity with Perl, even though, the more I learnt of it while building this project, I kept on realising there is so much more to learn.
+
+Personal thoughts on Perl
+-------------
 - This app is separated into two repos to emphasize the separation of concerns between the frontend and the backend. We can however combine the two separate repos into one, put them on any location on our workstation, and create symlinks to the folders we downloaded the repos into
 - For a fresh database, the db.sqlite database file can be deleted, the app automatically creates a new database file if it doesn't find any
 - This app makes AJAX calls to the Perl backend
